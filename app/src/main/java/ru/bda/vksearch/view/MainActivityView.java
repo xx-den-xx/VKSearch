@@ -11,7 +11,7 @@ import ru.bda.vksearch.model.SearchAnswer;
  * @author Belobaba Denis
  */
 
-public interface MainActivityView extends View{
+public interface MainActivityView{
     void authComplete(VKAccessToken res);
     void authError(VKError error);
     void startProgress();

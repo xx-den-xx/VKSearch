@@ -2,7 +2,6 @@ package ru.bda.vksearch.presenter;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.util.Log;
 
 import com.google.gson.Gson;
 import com.vk.sdk.VKAccessToken;
